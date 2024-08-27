@@ -1,0 +1,43 @@
+# Yarn specific files
+yarn.lock
+.yarn/
+.pnp.*
+
+# Node.js specific files
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs
+*.log
+logs/
+*.log.*
+*.out
+*.pid
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Build directories
+dist/
+build/
+out/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Miscellaneous
+*.tmp
+*.swp
+*.bak

@@ -1,0 +1,11 @@
+{
+  "name": "kafka-service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Sagarsharma11/kafka-service.git",
+  "author": "fx900-fx97@7 <ss365493@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "kafkajs": "^2.2.4"
+  }
+}
